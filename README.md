@@ -1,2 +1,3 @@
 # helo-world
 This is just testing
+We are small company, partnerships just started, we install solar enegry solusions and smart home IoT for residential and comercial properties...
